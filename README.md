@@ -12,15 +12,22 @@ From 0-1 Mission-led practice
 
 因为也不是很熟悉基础知识，所以也会穿插一些统计知识之类的
 
-## Aug 25-Sep 19 
+## Aug 25-Sep 19 (Checked on Sep 19)
 Plan: networkx, matplotlib visualization (how to plot) 
-      how to map relationship and network (初步）
-      Sep 19 Meet Prof.
-      Sort paper and read how to write article
+      how to map relationship and network (初步）-- not finished, did it with ucinet and gephi
+      Sep 19 Meet Prof.   --about to meet
+      Sort paper and read how to write article   -- learned some basics
       
-      统计学 Chapter 1-4
+      统计学 Chapter 1-4   -- not finished, do it on night Sep 19.
       
       
 Finished: jieba + partial LDA
 
-## Sep 
+## Sep 19-Sep 24 web crawl basics
+
+Plan: how to get pass offical government websites, get, read and save the data
+      draw a worldmap
+      draw relationships and network
+      know numpy, pandas well
+      
+      统计学 Chapter 5 
