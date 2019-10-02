@@ -37,3 +37,7 @@ Plan: how to get pass offical government websites, get, read and save the data
       know numpy, pandas well
       
       统计学 Chapter 5 
+
+## October 2--
+
+Still Web Scraping TT...
