@@ -41,3 +41,23 @@ Plan: how to get pass offical government websites, get, read and save the data
 ## October 2--
 
 Still Web Scraping TT...
+
+## --Oct 14, Oct15-22
+
+Went through the courses by Mr.Han and gained some thoughts on python and ML.
+
++ Web scraping and nlp on policy, and the stuffs conducted past weeks. Learn more on modeling and algorithms.
+
++ Look for cases and think about the application forms, think clearly about what data and what areas I may be in the future.
+
++ Be more specific and clear about the things I am doing 
+
++ Find a day and write the manuscript, sent the draft to supervisor
+
+## Oct 22-Oct 30
+
++ Think more about algorithms, and networkx something
+
++ About spark, big data.
+
+
