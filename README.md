@@ -62,4 +62,17 @@ Went through the courses by Mr.Han and gained some thoughts on python and ML. (m
 
 + Write down the methods, results, build up a framework before Oct.27
 
+------Edited on Oct.29---------
+
+Starting paper, painful in writing the methods, wonder to what extent should i elaborate the analysis
+
++ two major failures:
+
+Tried yellowbrick, falied in doing the dispersion plot, dont know why.  
+
+Tried to compute the perplexity using that by scikit-learn, failed in installing malley, dont know why.
+
++ So the research structure becomes simpler: jieba + gensim + tf-idf + LDA
+
+Keep writing 500+ for each day, fighting~~
 
