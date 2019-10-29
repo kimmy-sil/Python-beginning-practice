@@ -7,3 +7,5 @@ It can be applied in very simple text analysis. Some part of the beginning pract
 * Combined with Gensim and visualized using pyLDAvis
 
 * Used jieba
+
+* Used yellowbrick
