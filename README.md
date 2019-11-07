@@ -64,15 +64,38 @@ Went through the courses by Mr.Han and gained some thoughts on python and ML. (m
 
 ------Edited on Oct.29---------
 
-Starting paper, painful in writing the methods, wonder to what extent should i elaborate the analysis
+Starting paper, painful in writing the methods, wonder to what extent should i elaborate the analysis (started)
 
 + two major failures:
 
-Tried yellowbrick, falied in doing the dispersion plot, dont know why.  
+Tried yellowbrick, falied in doing the dispersion plot, dont know why. (completed) 
 
-Tried to compute the perplexity using that by scikit-learn, failed in installing malley, dont know why.
+Tried to compute the perplexity using that by scikit-learn, failed in installing malley, dont know why. (used coherence to replace it)
 
-+ So the research structure becomes simpler: jieba + gensim + tf-idf + LDA
++ So the research structure becomes simpler: jieba + gensim + tf-idf + LDA (completed)
 
 Keep writing 500+ for each day, fighting~~
 
+## Nov 7-11
+
+--------Edited on Nov.7----------
+
+The past week is tough, many things happened, keep apologizing and really have hard time telling whether people are telling the truths.
+
+Good thing is that I finished my visa applicaion and started writing, phew!
+
+I have already drated the intro, data, methods of my paper, but I found the data i use had a little problem and needed revision.
+
++ Revise data, find out more about DTM and how to plot, finish the results and send them to Prof before next Monday.
+
++ Read that book on Hong Kong by Gu Rude, very interesting, or maybe I should read some related to the housing problems
+
++ Sort out the knowledge map in this area, figure out what i should do after this paper
+
++ Learn about visualization, art and science
+
++ Learn the courses on DataCamp and finished that one in Coursera (Oops, my money, TT)
+
+## Nov 12-16 
+
++ There will be some digital/technology events in Shenzhen, will go there.
