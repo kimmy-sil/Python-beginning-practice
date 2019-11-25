@@ -107,4 +107,6 @@ And i met Jack, and lots of things happened. So little time to write the paper a
 
 After 10 days, i finally have some courage to start my paper and the due is coming. 
 
+Should start SNA and geography studies. innovation spread, network, relationship
+
 + for 25, results plot
