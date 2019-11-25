@@ -99,3 +99,12 @@ I have already drated the intro, data, methods of my paper, but I found the data
 ## Nov 12-16 
 
 + There will be some digital/technology events in Shenzhen, will go there.
+
+## Nov 24-30
+
+Past days were in Chaos. HK has been too horrible to stay, so i went to SZ.
+And i met Jack, and lots of things happened. So little time to write the paper and started self learning.
+
+After 10 days, i finally have some courage to start my paper and the due is coming. 
+
++ for 25, results plot
