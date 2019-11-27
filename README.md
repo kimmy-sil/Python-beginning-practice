@@ -109,4 +109,6 @@ After 10 days, i finally have some courage to start my paper and the due is comi
 
 Should start SNA and geography studies. innovation spread, network, relationship
 
+I think the goals for the next year is text mining, social network analysis, machine learning and urban planning, also GIS
+
 + for 25, results plot
