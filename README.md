@@ -12,6 +12,7 @@ From 0-1 Mission-led practice
 
 因为也不是很熟悉基础知识，所以也会穿插一些统计知识之类的
 
+## 2019
 ## Aug 25-Sep 19 (Checked on Sep 19)
 Plan: networkx, matplotlib visualization (how to plot)   
 
@@ -84,7 +85,7 @@ The past week is tough, many things happened, keep apologizing and really have h
 
 Good thing is that I finished my visa applicaion and started writing, phew!
 
-I have already drated the intro, data, methods of my paper, but I found the data i use had a little problem and needed revision.
+I have already drafted the intro, data, methods of my paper, but I found the data i use had a little problem and needed revision.
 
 + Revise data, find out more about DTM and how to plot, finish the results and send them to Prof before next Monday.
 
@@ -112,3 +113,16 @@ Should start SNA and geography studies. innovation spread, network, relationship
 I think the goals for the next year is text mining, social network analysis, machine learning and urban planning, also GIS
 
 + for 25, results plot
+
+
+## 2020
+   
+   Covid19 has caused a lot of trouble. havent been able to sit down and start to learn new things. 
+   basically i just spent my days writing the lengthy article. and now i think i can move on.
+   
+### June 11 - 19
+
++ Figure out the method for policy text mining, read the fundemental book every day. 
++ Write the intro and literature at the same time concerning the smart city policy, lock down to the data source and set the objectives. 
++ Try BERT + LDA + Clustering to do the topic modeling 
++ Learn SNA and try to draw a concept map. 
