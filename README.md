@@ -123,6 +123,29 @@ I think the goals for the next year is text mining, social network analysis, mac
 ### June 11 - 19
 
 + Figure out the method for policy text mining, read the fundemental book every day. 
-+ Write the intro and literature at the same time concerning the smart city policy, lock down to the data source and set the objectives. 
++ Write the intro and literature at the same time concerning the sc policy, lock down to the data source and set the objectives. 
 + Try BERT + LDA + Clustering to do the topic modeling 
 + Learn SNA and try to draw a concept map. 
+
+------------On June 17-----------
+
++ 找到了一本和policy分析和ml有点相关的书，一看是JR gil garcia写的，难怪了 写了那个initiative framework的人之一
+
++ Not so many information on policy semantic/text analytics, not to say topic modeling or others. some are on comments, some extract from social media like twitter. its hard to identify the objectives, plans, processes seperately. And one great drawback here is I am not capable of conducting sophisticated and integrated analysis. (should continue explore and think about this)
+
++ Have collected 15+paper for sc policy. truth is few scholars are in this field. some important persons are like angelidous and her teams. And other than this, nearly zero. So need to expand the literature review search to a lot more. (Possibly on public strategic planning and policy making)
+
++ The basic concept map is drawn using QDA tools since the edge and the weights are vague. 
+
++ For policy network, mostly are about the parties, or some other dynamic changes, it is difficult to get data. should think about this. 
+
++ Have started reading at the ml algorithms. Good news is it is not that hard when I read them this time, and I seemed to have found some shared things in them. (Will keep doing this)
+
+### June 20-June 30
+
++ This time really need to send out the sc knowledge paper
++ Draft for sc policy (content, framework, development, 8 pages is ok)
++ ML, NLP do quickly adsorp more as possible, and recap visualization like seaborn.
++ GIS beginner, draw the distribution map
++ Go through the tableau book, if my tableau is not expired.
++ Think about next step. 
