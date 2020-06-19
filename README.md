@@ -1,5 +1,5 @@
-# Python-beginning-practice
-From 0-1 Mission-led practice
+# Knowledge learning diaries
+
 
 # Something to say before start
 
