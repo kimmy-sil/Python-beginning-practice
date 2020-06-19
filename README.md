@@ -141,10 +141,18 @@ I think the goals for the next year is text mining, social network analysis, mac
 
 + Have started reading at the ml algorithms. Good news is it is not that hard when I read them this time, and I seemed to have found some shared things in them. (Will keep doing this)
 
+---------- On June 19-------------
++ Last night i struggled with seaborn and bokeh 1h passed and nothing.
++ I found a book talking about deep learning stuffs, quite interesting, I think I can carry on.
++ I managed to draw sth QDA map. problem now is the categories not defined and unclear, the input should be expanded, and see if there are some other tools that I could apply. 
+
+Not so much time left, fighting! 
+
+
 ### June 20-June 30
 
 + This time really need to send out the sc knowledge paper
-+ Draft for sc policy (content, framework, development, 8 pages is ok)
++ Draft for sc policy/PPP (content, framework, development, 8 pages is ok)
 + ML, NLP do quickly adsorp more as possible, and recap visualization like seaborn.
 + GIS beginner, draw the distribution map
 + Go through the tableau book, if my tableau is not expired.
