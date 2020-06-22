@@ -157,3 +157,7 @@ Not so much time left, fighting!
 + GIS beginner, draw the distribution map
 + Go through the tableau book, if my tableau is not expired.
 + Think about next step. 
+
+----------On June 22--------------------
++ Today I found that the e government things or smart governance or any management isses are about the construction of databases, like the distributed system building, hadoop, or sth. and scholars in this field are mostly in computer science. so whats left for the traditional strand, or the interdisciplinary policy modeling, or say that all need to have the simulation skills;
++ General Equilibrium Models; System Dynamic Modelling; Markov Modelling; Agent-Based Modelling; Discrete Event Modelling
