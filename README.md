@@ -161,3 +161,14 @@ Not so much time left, fighting!
 ----------On June 22--------------------
 + Today I found that the e government things or smart governance or any management isses are about the construction of databases, like the distributed system building, hadoop, or sth. and scholars in this field are mostly in computer science. so whats left for the traditional strand, or the interdisciplinary policy modeling, or say that all need to have the simulation skills;
 + General Equilibrium Models; System Dynamic Modelling; Markov Modelling; Agent-Based Modelling; Discrete Event Modelling
+
+### Dec 07-Dec 30
+
+Oops its been half years since my last update. What ive done in the past months: submitted one paper, got one paper accepted, keynote on one conference, and 
+now revising another paper, but it is still far away from the graduation criteria. 
+
+Goals for the remaining days in 2020:
++ Familiar with discourse network/political network/governance network analysis; more familiar with graph theory;
++ Keep looking for postdoc
++ one conference abstract before Dec 9
++ Draft main contents framework for thesis
