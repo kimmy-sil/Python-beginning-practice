@@ -172,3 +172,5 @@ Goals for the remaining days in 2020:
 + Keep looking for postdoc
 + one conference abstract before Dec 9
 + Draft main contents framework for thesis
+
+https://mc-stan.org/docs/2_25/stan-users-guide/index.html#overview
